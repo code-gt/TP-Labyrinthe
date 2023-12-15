@@ -1,4 +1,5 @@
 # TP - Labyrinthe
+![image](https://github.com/code-gt/TP-Labyrinthe/assets/120173004/da2eeecf-653f-429c-aef5-a6f942ffbdc8)
 
 **Objectif :** Apprendre à manipuler le DOM avec JavaScript pour générer dynamiquement un labyrinthe interactif.
 
